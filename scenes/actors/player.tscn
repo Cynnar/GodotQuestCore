@@ -1,0 +1,9 @@
+[gd_scene format=3 uid="uid://c0hfd0mckedn0"]
+
+[ext_resource type="Script" uid="uid://bxwglnaekhecw" path="res://scripts/components/StatsComponent.gd" id="1_15tap"]
+
+[node name="Player" type="Node2D" unique_id=479032385]
+
+[node name="StatsComponent" type="Node" parent="." unique_id=2034688341]
+script = ExtResource("1_15tap")
+metadata/_custom_type_script = "uid://bxwglnaekhecw"

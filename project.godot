@@ -14,6 +14,10 @@ config/name="GodotQuestCore"
 config/features=PackedStringArray("4.6", "GL Compatibility")
 config/icon="res://icon.svg"
 
+[autoload]
+
+DatabaseManager="*uid://dp4d5tgoskl72"
+
 [physics]
 
 3d/physics_engine="Jolt Physics"
